@@ -1,6 +1,6 @@
 
 # 삼겹살 반찬 선택 앱
-![image](https://github.com/incheonQ/samgyeopsal/삼겹살_먹을_때_3가지만_골라야_한다면.jpg)
+![image](https://github.com/incheonQ/samgyeopsal/blob/main/%EC%82%BC%EA%B2%B9%EC%82%B4_%EB%A8%B9%EC%9D%84_%EB%95%8C_3%EA%B0%80%EC%A7%80%EB%A7%8C_%EA%B3%A8%EB%9D%BC%EC%95%BC_%ED%95%9C%EB%8B%A4%EB%A9%B4.jpg)
 
 이 앱은 사용자가 삼겹살과 잘 어울리는 반찬을 선택하여 그 사람의 성향을 분석하는 Flutter 애플리케이션입니다. 
 
