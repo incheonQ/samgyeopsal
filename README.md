@@ -6,8 +6,9 @@
 사용자는 최대 3가지 반찬을 선택할 수 있으며, 선택한 반찬에 따라 성향 분석 결과를 제공합니다.
 
 ## 사용 예시
-![](김치,김치찌개,콩나물.mp4)
-![](마늘,쌈장,쌈채소.mp4)
+![image](https://github.com/user-attachments/assets/0b763dc3-3bb4-4a78-be56-f86a7b724343)
+![image](https://github.com/user-attachments/assets/546650a6-c324-4fa0-9c9b-769c3aca782c)
+
 
 ## 파일 설명
 
